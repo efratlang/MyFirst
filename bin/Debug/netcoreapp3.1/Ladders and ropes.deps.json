@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ladders and ropes/1.0.0": {
+        "runtime": {
+          "Ladders and ropes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ladders and ropes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

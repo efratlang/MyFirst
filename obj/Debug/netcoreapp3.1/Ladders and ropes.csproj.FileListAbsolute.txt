@@ -1,0 +1,26 @@
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.exe
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.deps.json
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.runtimeconfig.json
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.runtimeconfig.dev.json
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.dll
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\bin\Debug\netcoreapp3.1\Ladders and ropes.pdb
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.csprojAssemblyReference.cache
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.csproj.CoreCompileInputs.cache
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.AssemblyInfoInputs.cache
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.AssemblyInfo.cs
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.dll
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.pdb
+C:\Users\שם לא ידוע\Desktop\אפרת מחשבים\Ladders and ropes\obj\Debug\netcoreapp3.1\Ladders and ropes.genruntimeconfig.cache
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.exe
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.deps.json
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.runtimeconfig.json
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.runtimeconfig.dev.json
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.dll
+C:\e\LeadersAndRopes\bin\Debug\netcoreapp3.1\Ladders and ropes.pdb
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.csprojAssemblyReference.cache
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.csproj.CoreCompileInputs.cache
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.AssemblyInfoInputs.cache
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.AssemblyInfo.cs
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.dll
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.pdb
+C:\e\LeadersAndRopes\obj\Debug\netcoreapp3.1\Ladders and ropes.genruntimeconfig.cache
